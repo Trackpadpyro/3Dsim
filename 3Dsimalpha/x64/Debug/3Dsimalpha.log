@@ -1,0 +1,80 @@
+﻿  Ctd.cpp
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(35,28): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(137,9): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(140,14): warning C4244:  '=': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(140,14): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(140,14): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(140,14): warning C4244:             _Ty=int
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(140,14): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Shapes.h(141,7): warning C4244:  'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(99,14): warning C4244:  '=': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(99,14): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(99,14): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(99,14): warning C4244:             _Ty=int
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(99,14): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(102,14): warning C4244:  '=': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(102,14): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(102,14): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(102,14): warning C4244:             _Ty=int
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(102,14): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(105,18): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(108,18): warning C4305:  '-=': truncation from 'double' to 'float'
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(111,14): warning C4244:  '=': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(111,14): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(111,14): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(111,14): warning C4244:             _Ty=int
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(111,14): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(114,14): warning C4244:  '=': conversion from 'float' to '_Ty', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(114,14): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(114,14): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(114,14): warning C4244:             _Ty=int
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(114,14): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,111): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,111): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,111): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,111): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,111): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,84): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,84): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,84): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,84): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,84): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,57): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,57): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,57): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,57): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(213,57): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,203): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,203): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,203): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,203): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,203): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,176): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,176): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,176): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,176): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,176): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,149): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,149): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,149): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,149): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(220,149): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,203): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,203): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,203): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,203): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,203): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,176): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,176): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,176): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,176): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,176): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,149): warning C4244:  'argument': conversion from '_Ty' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,149): warning C4244:         with
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,149): warning C4244:         [
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,149): warning C4244:             _Ty=float
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(221,149): warning C4244:         ]
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(237,146): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(237,107): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\3Dsimalpha\3Dsimalpha\Ctd.cpp(237,68): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  3Dsimalpha.vcxproj -> C:\Users\track\source\repos\3Dsimalpha\x64\Debug\3Dsimalpha.exe
